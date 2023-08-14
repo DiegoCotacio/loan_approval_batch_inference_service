@@ -1,0 +1,21 @@
+pandas
+numpy
+scikit-learn
+xgboost
+catboost
+fastapi
+lightgbm
+uvicorn
+mangum
+dill
+optuna
+mlflow
+dagshub
+deepchecks
+google-cloud-bigquery
+google-cloud
+db-dtypes
+prefect
+
+
+-e .
