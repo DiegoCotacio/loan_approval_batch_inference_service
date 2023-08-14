@@ -122,5 +122,6 @@ def generate_insurance_predictions():
 
 #------------------------ RUN BATCH PREDICTION PIPELINE
 
+
 if __name__ == '__main__':
  generate_insurance_predictions()
